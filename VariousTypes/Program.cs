@@ -17,7 +17,7 @@ namespace VariousTypes
             char character_5 = '\u0007';
             float numero_real_1 = 4.3f;
             double numero_real_2 = 1432.98765432f;
-            bool booleano_2 = false
+            bool booleano_2 = false;
             Console.WriteLine(numero_1);
             Console.WriteLine(nome);
             Console.WriteLine(booleano_1);
